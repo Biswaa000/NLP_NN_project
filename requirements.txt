@@ -1,0 +1,6 @@
+
+distutils-pytest
+
+streamlit==1.27.0
+tensorflow==2.13.0
+keras==2.13.1
